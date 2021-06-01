@@ -13,10 +13,13 @@ h1{
 }
 article{
     background-color: #caf0fb;
+    margin-bottom: 200px;
+    
 }
 
 form{
     background-color:  #5d4b7696;
+    display: block;
 }
 
 .a{

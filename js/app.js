@@ -47,9 +47,9 @@ Places.prototype.images = function() {
 
 
 
-form.addEventListener('submit', submiter);
+form.addEventListener('submit', submitter);
 
-function submiter(event){
+function submitter(event){
     event.preventDefault();
     let newPlace=event.target.nameplace.value;
     let newTrip=event.target.tripplace.value;
@@ -62,7 +62,7 @@ function submiter(event){
  form.reset();
 
 }
-
+submitter();
 
 Places.prototype.render=function(){
 
