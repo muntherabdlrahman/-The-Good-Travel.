@@ -1,0 +1,33 @@
+
+body{
+    width: 0 auto;
+    background-image: url('../img/background.png');
+}
+
+h1{
+    color:white;
+    font-size: xx-large;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+article{
+    background-color: #caf0fb;
+}
+
+form{
+    background-color:  #5d4b7696;
+}
+
+.a{
+    background-color:   #fffdfe88;
+}
+
+
+container{
+    background-color:#fffdfe88 ;
+}
+
+footer{
+    background-color: #f376a288;
+}
